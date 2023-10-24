@@ -3,7 +3,13 @@
 
 
 
-<img src="https://media.giphy.com/media/jl5q0HJWcDbwQY4nSb/giphy.gif" alt="GIF Animado" width="220" height="150" />![image](https://user-images.githubusercontent.com/55905579/277828233-2572cf19-370e-46c2-bdf3-1b6c79b69f0b.png)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+<div>
+  <img src="https://media.giphy.com/media/jl5q0HJWcDbwQY4nSb/giphy.gif" alt="GIF Animado" width="250" height="150" />
+  <img src="https://user-images.githubusercontent.com/55905579/277828233-2572cf19-370e-46c2-bdf3-1b6c79b69f0b.png" width="550" height="230" />
+</div>
+
 
 
 
