@@ -1,7 +1,8 @@
 ### Console.log("Hello Word")👋 
 ### My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨
 
-
+[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -19,7 +20,7 @@
   </a>
 </p>
 
-
+[![laura's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superpollo2&theme=white-green)](https://github.com/anuraghazra/github-readme-stats)
 
 
 My objectives
