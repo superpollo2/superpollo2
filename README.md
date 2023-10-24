@@ -1,16 +1,27 @@
-### Hi there 👋
+### Console.log("Hello Word")👋 
+### My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨
 
-<!--
-**superpollo2/superpollo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/jl5q0HJWcDbwQY4nSb/giphy.gif" alt="GIF Animado" width="300" height="200" />![image](https://user-images.githubusercontent.com/55905579/277828233-2572cf19-370e-46c2-bdf3-1b6c79b69f0b.png)
+
+
+
+<p align="left" padding="2%">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,fastapi,flutter,figma,github,mysql,nextjs,py,ts,react,spring,css,java,ai,linux" />
+  </a>
+</p>
+
+
+
+
+My objectives
+- Start entering the Industry 🌱 
+- Try to grow my tech stack 💪🧙
+- Be better at the Backend 📝 
+- Learn more about Fronted ☁️ 
+- Learn about cloud 📉
+- Learn about Data Science 
+🌈Be happy 🌟
+- ⚡ Fun fact: When I'm stressed I make desserts 🍰
