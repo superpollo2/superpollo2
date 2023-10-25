@@ -1,34 +1,33 @@
 ### Console.log("Hello Word")👋 
 ### My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨
 
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
+[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
+
 <div>
   <img src="https://media.giphy.com/media/jl5q0HJWcDbwQY4nSb/giphy.gif" alt="GIF Animado" width="250" height="150" />
   <img src="https://user-images.githubusercontent.com/55905579/277828233-2572cf19-370e-46c2-bdf3-1b6c79b69f0b.png" width="550" height="230" />
 </div>
 
-
-
-
+### Lenguages & Tools:
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,fastapi,flutter,figma,github,mysql,nextjs,py,ts,react,spring,css,java,ai,linux" />
   </a>
 </p>
 
-[![laura's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superpollo2&theme=white-green)](https://github.com/anuraghazra/github-readme-stats)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?logo=ansible&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 
-My objectives
-- Start entering the Industry 🌱 
-- Try to grow my tech stack 💪🧙
-- Be better at the Backend 📝 
-- Learn more about Fronted ☁️ 
-- Learn about cloud 📉
-- Learn about Data Science 
-🌈Be happy 🌟
-- ⚡ Fun fact: When I'm stressed I make desserts 🍰
+<div style="height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superpollo2&layout=compact" style="height: 100%;" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=superpollo2&hide=contribs,prs" style="height: 165px;" alt="Laura's GitHub stats">
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=superpollo2&theme=default)](https://git.io/streak-stats)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superpollo2&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
+
+
