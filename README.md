@@ -1,9 +1,8 @@
-### Console.log("Hello Word")👋 
-### My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨
+<div align="center">
+  <h2>Console.log("Hello Word")👋</h2>
+  <h3>My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨</h3>
+</div>
 
-
-[![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
-[![GitHub commits](https://badgen.net/github/commits/Naereen/Strapdown.js)](https://GitHub.com/Naereen/StrapDown.js/commit/)
 
 <div>
   <img src="https://media.giphy.com/media/jl5q0HJWcDbwQY4nSb/giphy.gif" alt="GIF Animado" width="250" height="150" />
@@ -25,10 +24,17 @@
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=superpollo2&theme=default" alt="GitHub Streak" style="margin-left: 20px;" style="height: 165px;">
+  <a href="#">
+    <img src="https://streak-stats.demolab.com/?user=superpollo2&theme=default" alt="GitHub Streak"  style="height: 170px;">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superpollo2&layout=compact" alt="GitHub Streak"  style="height: 170px;">
   </a>
 </div>
+
+
+
+
+
+
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superpollo2&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
