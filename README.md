@@ -27,6 +27,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=superpollo2&hide=contribs,prs" style="height: 165px;" alt="Laura's GitHub stats">
 </div>
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=superpollo2&theme=default" alt="GitHub Streak" style="margin-left: 20px;">
+  </a>
+</div>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=superpollo2&theme=default)](https://git.io/streak-stats)
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superpollo2&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
