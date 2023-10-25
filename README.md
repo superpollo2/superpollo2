@@ -33,7 +33,6 @@
   </a>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=superpollo2&theme=default)](https://git.io/streak-stats)
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=superpollo2&theme=github-compact&custom_title=PVHuwung%20Activity%20Graph&hide_border=true)
 
 
