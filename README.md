@@ -22,14 +22,11 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 
 
-<div style="height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superpollo2&layout=compact" style="height: 100%;" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=superpollo2&hide=contribs,prs" style="height: 165px;" alt="Laura's GitHub stats">
-</div>
+
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=superpollo2&theme=default" alt="GitHub Streak" style="margin-left: 20px;">
+    <img src="https://streak-stats.demolab.com/?user=superpollo2&theme=default" alt="GitHub Streak" style="margin-left: 20px;" style="height: 165px;">
   </a>
 </div>
 
