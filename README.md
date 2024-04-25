@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; ">
 <div align="center">
   <h2>Console.log("Hello Word")👋</h2>
   <h3>My name is Laura, a software engineer in training 👩‍💻 🎒 🚀 ✨</h3>
@@ -30,7 +31,7 @@
   </a>
 </div>
 
-
+</div>
 
 
 
